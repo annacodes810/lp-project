@@ -1,0 +1,76 @@
+.headersnav {
+    background-color: #1F2937;
+    font-size: 24px;
+    font: robotica;   
+}
+.nav {
+    float:right;
+    }
+.nav a {
+    color: #f9faf8;
+    text-decoration: none;
+}
+.nav a:hover {
+    background-color: rgba(174, 103, 207, 0.575)
+}
+.part1 {
+    background-color: #1F2937;
+    width: auto;
+    height: 500px;
+    color:#f9faf8;
+    align-items: center;
+}
+.fan {
+    font-size: 48px;
+    text-align:justify;
+    height: 100px;
+    width: 500px;
+    }
+.page {
+    text-align: left;
+    font-size: 16px;
+    height:100px;
+    width:500px;
+}
+.cover {
+    align-items: center;
+    display: block;
+    width: 0%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.pic {
+    align-items:center;
+    background-color: #f9faf8;
+    border:10px solid #3882f6;
+    margin:auto;
+}
+.albums {
+    align-items: center;
+    margin-left: 250px;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+
+}
+
+h1 {text-align: center;}
+.part3 {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-display: #1f2937;
+    gap: 0;
+    align-items: center;
+    height: 300px;
+    width: auto;
+}
+.quote {
+    align-items: center;
+    margin: auto;
+    height: 850px;
+    width: 850px;
+    }
+strong {text-align: right;}
